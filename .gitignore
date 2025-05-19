@@ -1,0 +1,22 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore data directory
+data/
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore other common Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# IDE specific files
+.vscode/
+.idea/ 
