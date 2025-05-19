@@ -10,6 +10,9 @@ data/
 *.jpeg
 *.gif
 
+# memory_snapshots directory
+memory_snapshots/
+
 # Ignore other common Python artifacts
 __pycache__/
 *.pyc
